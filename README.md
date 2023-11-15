@@ -18,7 +18,7 @@ Para instalar el proyecto se debe tener instalado flutter en su version 2.2.3 o 
 Una vez instalado flutter se debe clonar el repositorio en su maquina local, para esto se debe ejecutar el siguiente comando en la terminal:
 
 ```bash
-git clone  
+git clone https://github.com/epmyas2022/chatbot-app.git
 ```
 
 Una vez clonado el repositorio se debe abrir el proyecto en un editor de codigo, como por ejemplo Android Studio, Visual Studio Code, etc.
